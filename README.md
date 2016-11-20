@@ -1,11 +1,11 @@
-## MongoDB
+# MongoDB
 
-# Download PEAR
+## Download PEAR
 
 	curl -O http://pear.php.net/go-pear.phar
 	sudo php -d detect_unicode=0 go-pear.phar
 
-# Configure and Install PEAR
+## Configure and Install PEAR
 You should now be at a prompt to configure PEAR.
 
 	1. Type 1 and press return.
@@ -20,12 +20,12 @@ You should now be at a prompt to configure PEAR.
     
 	5. Press return
 
-# Verify PEAR
+## Verify PEAR
 You should be able to type:
 
 	pear version
 
-# MongoDB Monitoring
+## MongoDB Monitoring
 Robomongo - Management Tool / Windows Supported
 MUNIN - Nagios
 MMS - Local & AWS Supported
