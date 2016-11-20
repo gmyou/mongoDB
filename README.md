@@ -8,17 +8,17 @@
 ## Configure and Install PEAR
 You should now be at a prompt to configure PEAR.
 
-	1. Type 1 and press return.
-	2. Enter:
+1. Type 1 and press return.
+2. Enter:
 
-	/usr/local/pear
+		/usr/local/pear
 	
-	3. Type 4 and press return.
-	4. Enter:
+3. Type 4 and press return.
+4. Enter:
 
-	/usr/local/bin
+		/usr/local/bin
     
-	5. Press return
+5. Press return
 
 ## Verify PEAR
 You should be able to type:
